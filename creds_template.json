@@ -1,0 +1,9 @@
+{"API_KEY" : "login_api_token",
+"POSTGRES_HOST": "host",
+"POSTGRES_PORT": "port",
+"POSTGRES_USERNAME": "user_name",
+"POSTGRES_PASSWORD": "password",
+"POSTGRES_DATABASE": "database_name",
+"COMPANIES": "['RELIANCE.BSE', 'TCS.BSE', 'HDFCBANK.BSE', 'HINDUNILVR.BSE', 'INFY.BSE', 'ICICIBANK.BSE', 'KOTAKBANK.BSE', 'SBIN.BSE', 'BHARTIARTL.BSE', 'BAJFINANCE.BSE']",
+"start_date":"2020-01-01",
+"end_date":"2024-06-30"}
